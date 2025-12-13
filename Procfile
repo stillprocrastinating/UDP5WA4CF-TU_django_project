@@ -1,1 +1,1 @@
-web: gunicorn my_project.wsgi
+web: gunicorn udp5wa4cf-tu-django-project.wsgi
